@@ -1,0 +1,2 @@
+-keep class com.pedro.halo.LockService { *; }
+-dontwarn org.xmlpull.v1.**
